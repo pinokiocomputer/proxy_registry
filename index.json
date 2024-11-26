@@ -1,0 +1,8 @@
+{
+  "proxies": [{
+    "icon": "ollama.webp",
+    "name": "Ollama",
+    "target": "http://127.0.0.1:11434",
+    "port": 44002
+  }]
+}
